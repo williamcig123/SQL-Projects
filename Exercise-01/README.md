@@ -3,7 +3,7 @@ I used this form of code to do my search:
 
 ```sql
 SELECT name, age, city
-From students
+FROM students
 WHERE course = "Computer Science"
 AND age >= 20;
 ```
