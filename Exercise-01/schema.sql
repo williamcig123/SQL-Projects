@@ -1,4 +1,4 @@
---Table structure and data insertion
+-- Table structure and data insertion
 CREATE TABLE students (
   id INT PRIMARY KEY AUTO_INCREMENT,
   name VARCHAR(100),
